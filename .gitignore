@@ -1,0 +1,13 @@
+# Data directory
+data/
+*.tar
+*.tar.gz
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Outputs
+outputs/
+*.pth 
